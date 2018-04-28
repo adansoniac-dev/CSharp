@@ -1,0 +1,11 @@
+C:\Users\AGUMADOC\Desktop\ToDos\CSharpLessons\CSharp\ConditionalsSwitch\ConditionalsSwitch\bin\Debug\netcoreapp2.0\ConditionalsSwitch.deps.json
+C:\Users\AGUMADOC\Desktop\ToDos\CSharpLessons\CSharp\ConditionalsSwitch\ConditionalsSwitch\bin\Debug\netcoreapp2.0\ConditionalsSwitch.runtimeconfig.json
+C:\Users\AGUMADOC\Desktop\ToDos\CSharpLessons\CSharp\ConditionalsSwitch\ConditionalsSwitch\bin\Debug\netcoreapp2.0\ConditionalsSwitch.runtimeconfig.dev.json
+C:\Users\AGUMADOC\Desktop\ToDos\CSharpLessons\CSharp\ConditionalsSwitch\ConditionalsSwitch\bin\Debug\netcoreapp2.0\ConditionalsSwitch.dll
+C:\Users\AGUMADOC\Desktop\ToDos\CSharpLessons\CSharp\ConditionalsSwitch\ConditionalsSwitch\bin\Debug\netcoreapp2.0\ConditionalsSwitch.pdb
+C:\Users\AGUMADOC\Desktop\ToDos\CSharpLessons\CSharp\ConditionalsSwitch\ConditionalsSwitch\obj\Debug\netcoreapp2.0\ConditionalsSwitch.csprojResolveAssemblyReference.cache
+C:\Users\AGUMADOC\Desktop\ToDos\CSharpLessons\CSharp\ConditionalsSwitch\ConditionalsSwitch\obj\Debug\netcoreapp2.0\ConditionalsSwitch.csproj.CoreCompileInputs.cache
+C:\Users\AGUMADOC\Desktop\ToDos\CSharpLessons\CSharp\ConditionalsSwitch\ConditionalsSwitch\obj\Debug\netcoreapp2.0\ConditionalsSwitch.AssemblyInfoInputs.cache
+C:\Users\AGUMADOC\Desktop\ToDos\CSharpLessons\CSharp\ConditionalsSwitch\ConditionalsSwitch\obj\Debug\netcoreapp2.0\ConditionalsSwitch.AssemblyInfo.cs
+C:\Users\AGUMADOC\Desktop\ToDos\CSharpLessons\CSharp\ConditionalsSwitch\ConditionalsSwitch\obj\Debug\netcoreapp2.0\ConditionalsSwitch.dll
+C:\Users\AGUMADOC\Desktop\ToDos\CSharpLessons\CSharp\ConditionalsSwitch\ConditionalsSwitch\obj\Debug\netcoreapp2.0\ConditionalsSwitch.pdb
