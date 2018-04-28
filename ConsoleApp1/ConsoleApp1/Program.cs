@@ -38,6 +38,32 @@ namespace ConsoleApp1
             Console.WriteLine("The answer will always be {0} and the number is {1}", trueFalse, newNumber);
             Console.WriteLine(trueFalse);
 
+            /* Constants 
+            */
+            const double PI = 3.14;         //constants must be intialized with a value when declared
+            Console.WriteLine(PI);
+         
+
+            /* Arithmetic Operators
+            */
+            int x1 = 10;
+            int y2 = 4;
+            double z1 = 16 / 5.0;
+            int mod_x = 25 % 7;
+            int increment = 42;
+            Console.WriteLine(x1 - y2);
+            Console.WriteLine(z1);
+            Console.WriteLine(mod_x);
+            increment += 2;
+            Console.WriteLine(increment);
+            increment++;
+            Console.WriteLine(increment);
+
+
+
+
+
+
 
       
 
